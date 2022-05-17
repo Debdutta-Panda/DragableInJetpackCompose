@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DragableInJetpackCompose.iml" filepath="$PROJECT_DIR$/.idea/modules/DragableInJetpackCompose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DragableInJetpackCompose.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DragableInJetpackCompose.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DragableInJetpackCompose.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DragableInJetpackCompose.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DragableInJetpackCompose.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DragableInJetpackCompose.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DragableInJetpackCompose.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DragableInJetpackCompose.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
